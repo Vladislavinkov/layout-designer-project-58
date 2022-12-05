@@ -7,7 +7,7 @@
 h1,
 .h1 {
   font-size: rem(30px);
-
+	color: #fff;
   @include media("md") {
     font-size: rem(45px);
   }
